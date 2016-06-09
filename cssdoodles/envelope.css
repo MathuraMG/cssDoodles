@@ -1,0 +1,43 @@
+#css-doodle-1 {
+  background-color: #FFE5BC;
+}
+#envelope-rect {
+  position: absolute;
+  margin: auto;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  width: 150px;
+  height: 85px;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+#envelope-flap-shadow {
+  display: block;
+  position: relative;
+  width: 0;
+  height: 0;
+  border-left: 75px solid transparent;
+  border-right: 75px solid transparent;
+  border-top: 60px solid #eee;
+  border-radius: 7px;
+}
+
+#envelope-flap {
+  display: block;
+  position: absolute;
+  top: -60px;
+  left:-68px ;
+  width: 0;
+  height: 0;
+  border-left: 68px solid transparent;
+  border-right: 68px solid transparent;
+  border-top: 53px solid #fff;
+  /*border-radius: 4px;*/
+}
+
+#envelope-label {
+  color: #803805;
+}

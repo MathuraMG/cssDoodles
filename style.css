@@ -1,0 +1,15 @@
+.css-doodle {
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  position: relative;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.description-text {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 18px;
+  font-weight: 200;
+}

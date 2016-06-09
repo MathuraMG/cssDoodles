@@ -1,0 +1,244 @@
+#css-doodle-3 {
+  background-color: #B0F387;
+}
+
+#london-bus-overall {
+  height:100px;
+  width:150px;
+  position: absolute  ;
+  margin: auto;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  top: 0;
+}
+#london-bus-top-deck {
+  border-top-right-radius: 14px;
+  border-top-left-radius: 14px;
+  background-color:#FB4B4B;
+  height:30px;
+  width:150px;
+  position: absolute;
+  margin: auto;
+  right: 50px;
+  left: 0;
+  bottom: 70px;
+  top: 0;
+}
+
+#london-bus-top-deck-window-1 {
+  background: linear-gradient(to right, #72D7EF, #fff);
+  height: 15px;
+  width:22.5px;
+  position: absolute;
+  bottom: 7.5px;
+  left: 5px;
+  border-top-left-radius: 7px;
+}
+#london-bus-top-deck-window-2 {
+  background: linear-gradient(to right, #72D7EF, #fff);
+  height: 15px;
+  width:25px;
+  position: absolute;
+  bottom: 7.5px;
+  left: 32.5px;
+}
+#london-bus-top-deck-window-3 {
+  background: linear-gradient(to right, #72D7EF, #fff);
+  height: 15px;
+  width:25px;
+  position: absolute;
+  bottom: 7.5px;
+  left: 62.5px;
+}
+#london-bus-top-deck-window-4 {
+  background: linear-gradient(to right, #72D7EF, #fff);
+  height: 15px;
+  width:25px;
+  position: absolute;
+  bottom: 7.5px;
+  left: 92.5px;
+}
+#london-bus-top-deck-window-5 {
+  background: linear-gradient(to right, #72D7EF, #fff);
+  height: 15px;
+  width:22.5px;
+  position: absolute;
+  bottom: 7.5px;
+  right: 5px;
+  border-top-right-radius: 7px;
+}
+
+
+#london-bus-white-divider {
+  background-color:#FFFFFF;
+  height:7px;
+  width:150px;
+  position: absolute;
+  margin: auto;
+  right: 0px;
+  left: 0;
+  bottom: 63px;
+}
+#london-bus-red-divider {
+  background-color:#FB4B4B;
+  height:3px;
+  width:150px;
+  position: absolute;
+  margin: auto;
+  right: 0px;
+  left: 0;
+  bottom: 60px;
+}
+
+#london-bus-middle {
+  background-color:#FB4B4B;
+  height:25px;
+  width:130px;
+  position: absolute;
+  margin: auto;
+  right: 50px;
+  left: 0;
+  bottom: 35px;
+}
+#london-bus-middle-window-0 {
+  background: #B74646;
+  height: 25px;
+  width:15px;
+  position: absolute;
+  bottom: 0px;
+  right: 2px;
+}
+#london-bus-middle-window-1 {
+  background: linear-gradient(to right, #72D7EF, #fff);
+  height: 15px;
+  width:25px;
+  position: absolute;
+  bottom: 5px;
+  left: 22.50px;
+}
+#london-bus-middle-window-2 {
+  background: linear-gradient(to right, #72D7EF, #fff);
+  height: 15px;
+  width:25px;
+  position: absolute;
+  bottom: 5px;
+  left: 52.5px;
+}
+#london-bus-middle-window-3 {
+  background: linear-gradient(to right, #72D7EF, #fff);
+  height: 15px;
+  width:25px;
+  position: absolute;
+  bottom: 5px;
+  right: 22.50px;
+}
+
+#london-bus-bottom-deck {
+  background-color:#FB4B4B;
+  border-top-right-radius: 14px;
+  height:35px;
+  width:150px;
+  position: absolute;
+  margin: 0 auto;
+  right: 50px;
+  left: 0;
+  bottom: 0px;
+  color: #fff;
+  font-weight:400;
+  text-align: center;
+}
+#london-bus-front-wheel-holder {
+  height:17px;
+  width: 34px;
+  border-top-left-radius: 17px;
+  border-top-right-radius:17px;
+  background-color: #333333;
+  position: absolute;
+  margin: auto;
+  right: -70px;
+  left: 0;
+  bottom: 0px;
+}
+#london-bus-back-wheel-holder {
+  height:17px;
+  width: 34px;
+  border-top-left-radius: 17px;
+  border-top-right-radius:17px;
+  background-color: #333333;
+  position: absolute;
+  margin: auto;
+  right: 80px;
+  left: 0;
+  bottom: 0px;
+}
+#london-bus-front-wheel {
+  height:26px;
+  width: 26px;
+  border-radius: 13px;
+  background-color: #555555;
+  position: absolute;
+  margin: auto;
+  right: -70px;
+  left: 0;
+  bottom: -13px;
+}
+#london-bus-back-wheel {
+  height:26px;
+  width: 26px;
+  border-radius: 13px;
+  background-color: #555555;
+  position: absolute;
+  margin: auto;
+  right: 80px;
+  left: 0;
+  bottom: -13px;
+}
+#london-bus-front-inner-wheel {
+  height:16px;
+  width: 16px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  position: absolute;
+  margin: auto;
+  right: 0px;
+  left: 0;
+  bottom: 5px;
+}
+#london-bus-back-inner-wheel {
+  height:16px;
+  width: 16px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  position: absolute;
+  margin: auto;
+  right: 0px;
+  left: 0;
+  bottom: 5px;
+}
+#london-bus-light {
+  height: 25px;
+  width:4px;
+  background-color:#FB4B4B;
+  position: absolute;
+  margin: auto;
+  right: -6px;
+  bottom: 0px;
+}
+
+#london-bus-light:after {
+  height: 12px;
+  width:6px;
+  content:'';
+  background-color:#fe0;
+  position: absolute;
+  margin: auto;
+  right: -7px;
+  bottom: 0px;
+  border-bottom-right-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+#london-bus-label {
+  color: #008B8B;
+}

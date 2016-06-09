@@ -1,0 +1,139 @@
+#css-doodle-2 {
+  background-color: #EAEAEA;
+}
+
+#chrome-logo-overall-circle {
+  background-color:#fff;
+  height:150px;
+  width:150px;
+  -webkit-border-radius:75px;
+  -moz-border-radius:75px;
+  border-radius:75px;
+  position: absolute;
+  margin: auto;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  overflow: hidden;
+}
+
+#chrome-logo-part-1 {
+  position: absolute;
+  margin: auto;
+  background-color:#DF2226;
+  height:45px;
+  width:140px;
+  left: 25px;
+}
+
+#chrome-logo-part-1:after {
+  position: absolute;
+  margin: auto;
+  left: -27px;
+  top: 20px;
+  background-color:#DF2226;
+  -webkit-transform: rotate(60deg);
+  -moz-transform: rotate(60deg);
+  -ms-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+  transform: rotate(60deg);
+  content: " ";
+  height:45px;
+  width: 100px;
+}
+
+#chrome-logo-part-2 {
+  position: absolute;
+  margin: auto;
+  background-color:#4BB748;
+  -webkit-transform: rotate(60deg);
+  -moz-transform: rotate(60deg);
+  -ms-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+  transform: rotate(60deg);
+  height:50px;
+  width:140px;
+  right: 62px;
+  top: 60px;
+}
+
+#chrome-logo-part-2:after {
+  position: absolute;
+  margin: auto;
+  right: -27px;
+  top: -18px;
+  background-color:#4BB748;
+  -webkit-transform: rotate(60deg);
+  -moz-transform: rotate(60deg);
+  -ms-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+  transform: rotate(60deg);
+  content: " ";
+  height:45px;
+  width: 100px;
+}
+
+#chrome-logo-part-3 {
+  position: absolute;
+  margin: auto;
+  background-color:#FDD20A;
+  height:47px;
+  width:143px;
+  left: 38px;
+  top: 96px;
+  -webkit-transform: rotate(120deg);
+  -moz-transform: rotate(120deg);
+  -ms-transform: rotate(120deg);
+  -o-transform: rotate(120deg);
+  transform: rotate(120deg);
+}
+
+#chrome-logo-part-3:after {
+  position: absolute;
+  margin: auto;
+  left: -35px;
+  top: 15px;
+  background-color:#FDD20A;
+  -webkit-transform: rotate(60deg);
+  -moz-transform: rotate(60deg);
+  -ms-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+  transform: rotate(60deg);
+  content: " ";
+  height:40px;
+  width: 100px;
+}
+#chrome-logo-inner-white {
+  background-color:#fff;
+  height:60px;
+  width:60px;
+  -webkit-border-radius:30px;
+  -moz-border-radius:30px;
+  border-radius:30px;
+  position: absolute;
+  margin: auto;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  top: 0;
+}
+
+#chrome-logo-inner-blue {
+  background-color:#3B7FB0;
+  height:50px;
+  width:50px;
+  -webkit-border-radius:25px;
+  -moz-border-radius:25px;
+  border-radius:25px;
+  position: absolute;
+  margin: auto;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  top: 0;
+}
+
+#chrome-logo-label {
+  color: #3B7FB0;
+}

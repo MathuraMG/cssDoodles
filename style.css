@@ -7,9 +7,15 @@
 }
 
 .description-text {
+  text-decoration: none;
   position: absolute;
   bottom: 10px;
   right: 10px;
   font-size: 18px;
   font-weight: 200;
+}
+
+.description-text:hover {
+  font-size: 20px;
+  font-weight: 400;
 }

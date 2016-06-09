@@ -1,8 +1,17 @@
 .css-doodle {
-  display: inline-block;
+  display: block;
   width: 250px;
   height: 250px;
   position: relative;
+  margin: 0 auto;
+
+}
+
+.container {
+  display: inline-block;
+  position: relative;
+  width: 48%;
+  margin: 0;
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
@@ -18,4 +27,10 @@
 .description-text:hover {
   font-size: 20px;
   font-weight: 400;
+}
+
+@media only screen and (max-width : 800px) {
+  .container {
+    width: 100%;
+  }
 }

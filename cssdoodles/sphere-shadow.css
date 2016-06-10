@@ -1,0 +1,55 @@
+#container-5 {
+  background-color: #c58b96;
+}
+#css-doodle-5 {
+  background-color: #c58b96;
+}
+#sphere-shadow-container {
+  position: absolute;
+  margin: auto;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  width: 150px;
+  height: 150px;
+  background-color: #444;
+  border-radius: 150px;
+  overflow: hidden;
+}
+
+#sphere-shadow-light {
+  position: absolute;
+  margin: auto;
+  bottom: 5px;
+  left: 7px;
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, #fff, #444 60%);
+  border-radius:100%;
+}
+
+#sphere-shadow-shadow {
+  position: absolute;
+  margin: auto;
+  bottom: 40px;
+  right: 75px;
+  width: 200px;
+  height: 100px;
+  background-color: #312e2e;
+  border: 0px;
+  border-radius:100%;
+  -webkit-transform: rotate(10deg);
+  -moz-transform: rotate(10deg);
+  -ms-transform: rotate(10deg);
+  -o-transform: rotate(10deg);
+  transform: rotate(10deg);
+
+  -moz-box-shadow: 5px 5px 5px rgba(0,0,0,0.6);
+  -webkit-box-shadow: 5px 5px 5px rgba(0,0,0,0.6);
+  box-shadow: -5px -5px 5px #312e2e;
+}
+
+#sphere-shadow-label {
+  color: #312e2e;
+}

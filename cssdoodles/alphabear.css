@@ -322,7 +322,14 @@
   border-top-right-radius: 35px;
 }
 #alphabear-lower-rect-lower {
+  background:
+  linear-gradient(135deg, #602368 25%, transparent 25%) -5px 0,
+  linear-gradient(225deg, #602368 25%, transparent 25%) -5px 0,
+  linear-gradient(315deg, #602368 25%, transparent 25%),
+  linear-gradient(45deg, #602368 25%, transparent 25%);
+  background-size: 10px 15px;
   background-color: #430e53;
+  /*background-color: #430e53;*/
   width:100px;
   height: 15px;
   position: absolute;
@@ -335,9 +342,16 @@
 }
 
 #alphabear-lower-rect-middle {
+  background:
+  linear-gradient(135deg, #602368 25%, transparent 25%) -5px 0,
+  linear-gradient(225deg, #602368 25%, transparent 25%) -5px 0,
+  linear-gradient(315deg, #602368 25%, transparent 25%),
+  linear-gradient(45deg, #602368 25%, transparent 25%);
+  background-size: 10px 5px;
+  /*background-color: #430e53;*/
   background-color: #ae3479;
   width:100px;
-  height: 1px;
+  height: 5px;
   position: absolute;
   margin: auto;
   bottom:22px;
@@ -346,9 +360,16 @@
 }
 
 #alphabear-lower-rect-upper {
+  background:
+  linear-gradient(135deg, #602368 25%, transparent 25%) -5px 0,
+  linear-gradient(225deg, #602368 25%, transparent 25%) -5px 0,
+  linear-gradient(315deg, #602368 25%, transparent 25%),
+  linear-gradient(45deg, #602368 25%, transparent 25%);
+  background-size: 10px 10px;
+  /*background-color: #430e53;*/
   background-color: #862d72;
   width:100px;
-  height: 7px;
+  height: 10px;
   position: absolute;
   top: 10px;
   bottom:0;

@@ -1,0 +1,159 @@
+#container-6 {
+  background:
+  /** LIGHT GREY _ TOP RIGHT **/
+  /* top left*/
+  linear-gradient(150deg, rgba(190,190,190,1) 11.5%, transparent 11.5%) 25px 16.66px,
+  /* bottom left*/
+  linear-gradient(30deg, rgba(190,190,190,1) 11.5%, transparent 11.5%) 25px -83.33px,
+  /* top right */
+  linear-gradient(30deg, transparent 88.5%, rgba(190,190,190,1) 88.5%, rgba(190,190,190,1) 0) 0px 33.33px,
+  /* bottom right*/
+  linear-gradient(150deg, transparent 88.5%, rgba(190,190,190,1) 88.5%, rgba(190,190,190,1) 0) 0px -66.66px,
+
+  /** LIGHT GREY _ BOTTOM LEFT **3.3
+  /* top left*/
+  linear-gradient(150deg, rgba(190,190,190,1) 11.5%, transparent 11.5%) 0px 66.66px,
+  /* bottom left*/
+  linear-gradient(30deg, rgba(190,190,190,1) 11.5%, transparent 11.5%) 0px -33.33px,
+  /* top right */
+  linear-gradient(30deg, transparent 88.5%, rgba(190,190,190,1) 88.5%, rgba(190,190,190,1) 0) -25px 83.33px,
+  /* bottom right*/
+  linear-gradient(150deg, transparent 88.5%, rgba(190,190,190,1) 88.5%, rgba(190,190,190,1) 0) -25px -16.66px,
+
+
+  /** DARK GREY _ TOP LEFT **/
+  /* top left*/
+  linear-gradient(150deg, rgba(180,180,180,1) 11.5%, transparent 11.5%) 0px 33.33px,
+  /* bottom left*/
+  linear-gradient(30deg, rgba(180,180,180,1) 11.5%, transparent 11.5%) 0px -66.66px,
+  /* top right */
+  linear-gradient(30deg, transparent 88.5%, rgba(180,180,180,1) 88.5%, rgba(180,180,180,1) 0) -25px 16.66px,
+  /* bottom right*/
+  linear-gradient(150deg, transparent 88.5%, rgba(180,180,180,1) 88.5%, rgba(180,180,180,1) 0) -25px -83.33px,
+
+  /** DARK GREY _ BOTTOM RIGHT **/
+
+  /* top left*/
+  linear-gradient(150deg, rgba(180,180,180,1) 11.5%, transparent 11.5%) 25px 83.33px,
+  /* bottom left*/
+  linear-gradient(30deg, rgba(180,180,180,1) 11.5%, transparent 11.5%) 25px -16.66px,
+  /* top right */
+  linear-gradient(30deg, transparent 88.5%, rgba(180,180,180,1) 88.5%, rgba(180,180,180,1) 0) 0px 66.66px,
+  /* bottom right*/
+  linear-gradient(150deg, transparent 88.5%, rgba(180,180,180,1) 88.5%, rgba(180,180,180,1) 0) 0px -33.33px,
+
+
+
+  /* FOR THE CENTER */
+  /* top left*/
+
+  linear-gradient(150deg, rgba(200,200,200,1) 11.5%, transparent 11.5%) 25px 50px,
+  /* bottom left*/
+  linear-gradient(30deg, rgba(200,200,200,1) 11.5%, transparent 11.5%) 25px -50px,
+  /* top right */
+  linear-gradient(30deg, transparent 88.5%, rgba(200,200,200,1) 88.5%, rgba(200,200,200,1) 0) -25px 50px,
+  /* bottom right*/
+  linear-gradient(150deg, transparent 88.5%, rgba(200,200,200,1) 88.5%, rgba(200,200,200,1) 0) -25px -50px,
+
+  /* CORNERS */
+  /* top left*/
+  linear-gradient(150deg, rgba(200,200,200,1) 11.5%, transparent 11.5%) 0px 0px,
+  /* bottom left*/
+  linear-gradient(30deg, rgba(200,200,200,1) 11.5%, transparent 11.5%) 0px 0px,
+  /* top right */
+  linear-gradient(30deg, transparent 88.5%, rgba(200,200,200,1) 88.5%, rgba(200,200,200,1) 0) 0px 0px,
+  /* bottom right*/
+  linear-gradient(150deg, transparent 88.5%, rgba(200,200,200,1) 88.5%, rgba(200,200,200,1) 0) 0px 0px;
+
+  background-size: 50px 100px;
+  background-color: rgba(160,160,160,1);
+
+}
+#css-doodle-6 {
+  background-color: transparent;
+}
+#tesselation-cube-container {
+  position: absolute;
+  margin: auto;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  width: 150px;
+  height: 150px;
+
+  background:
+  /** LIGHT GREY _ TOP RIGHT **/
+  /* top left*/
+  linear-gradient(150deg, rgba(35,103,97,1) 11.5%, transparent 11.5%) 25px 16.66px,
+  /* bottom left*/
+  linear-gradient(30deg, rgba(35,103,97,1) 11.5%, transparent 11.5%) 25px -83.33px,
+  /* top right */
+  linear-gradient(30deg, transparent 88.5%, rgba(35,103,97,1) 88.5%, rgba(35,103,97,1) 0) 0px 33.33px,
+  /* bottom right*/
+  linear-gradient(150deg, transparent 88.5%, rgba(35,103,97,1) 88.5%, rgba(35,103,97,1) 0) 0px -66.66px,
+
+  /** LIGHT GREY _ BOTTOM LEFT **3.3
+  /* top left*/
+  linear-gradient(150deg, rgba(35,103,97,1) 11.5%, transparent 11.5%) 0px 66.66px,
+  /* bottom left*/
+  linear-gradient(30deg, rgba(35,103,97,1) 11.5%, transparent 11.5%) 0px -33.33px,
+  /* top right */
+  linear-gradient(30deg, transparent 88.5%, rgba(35,103,97,1) 88.5%, rgba(35,103,97,1) 0) -25px 83.33px,
+  /* bottom right*/
+  linear-gradient(150deg, transparent 88.5%, rgba(35,103,97,1) 88.5%, rgba(35,103,97,1) 0) -25px -16.66px,
+
+
+  /** DARK GREY _ TOP LEFT **/
+  /* top left*/
+  linear-gradient(150deg, rgba(40,49,49,1) 11.5%, transparent 11.5%) 0px 33.33px,
+  /* bottom left*/
+  linear-gradient(30deg, rgba(40,49,49,1) 11.5%, transparent 11.5%) 0px -66.66px,
+  /* top right */
+  linear-gradient(30deg, transparent 88.5%, rgba(40,49,49,1) 88.5%, rgba(40,49,49,1) 0) -25px 16.66px,
+  /* bottom right*/
+  linear-gradient(150deg, transparent 88.5%, rgba(40,49,49,1) 88.5%, rgba(40,49,49,1) 0) -25px -83.33px,
+
+  /** DARK GREY _ BOTTOM RIGHT **/
+
+  /* top left*/
+  linear-gradient(150deg, rgba(40,49,49,1) 11.5%, transparent 11.5%) 25px 83.33px,
+  /* bottom left*/
+  linear-gradient(30deg, rgba(40,49,49,1) 11.5%, transparent 11.5%) 25px -16.66px,
+  /* top right */
+  linear-gradient(30deg, transparent 88.5%, rgba(40,49,49,1) 88.5%, rgba(40,49,49,1) 0) 0px 66.66px,
+  /* bottom right*/
+  linear-gradient(150deg, transparent 88.5%, rgba(40,49,49,1) 88.5%, rgba(40,49,49,1) 0) 0px -33.33px,
+
+
+
+  /* FOR THE CENTER */
+  /* top left*/
+
+  linear-gradient(150deg, rgba(86,158,152,1) 11.5%, transparent 11.5%) 25px 50px,
+  /* bottom left*/
+  linear-gradient(30deg, rgba(86,158,152,1) 11.5%, transparent 11.5%) 25px -50px,
+  /* top right */
+  linear-gradient(30deg, transparent 88.5%, rgba(86,158,152,1) 88.5%, rgba(86,158,152,1) 0) -25px 50px,
+  /* bottom right*/
+  linear-gradient(150deg, transparent 88.5%, rgba(86,158,152,1) 88.5%, rgba(86,158,152,1) 0) -25px -50px,
+
+  /* CORNERS */
+  /* top left*/
+  linear-gradient(150deg, rgba(86,158,152,1) 11.5%, transparent 11.5%) 0px 0px,
+  /* bottom left*/
+  linear-gradient(30deg, rgba(86,158,152,1) 11.5%, transparent 11.5%) 0px 0px,
+  /* top right */
+  linear-gradient(30deg, transparent 88.5%, rgba(86,158,152,1) 88.5%, rgba(86,158,152,1) 0) 0px 0px,
+  /* bottom right*/
+  linear-gradient(150deg, transparent 88.5%, rgba(86,158,152,1) 88.5%, rgba(86,158,152,1) 0) 0px 0px;
+
+
+  background-size: 50px 100px;
+  background-color: rgba(41,45,45,1);
+  overflow: hidden;
+}
+
+#tesselation-cube-label {
+  color: #312e2e;
+}
